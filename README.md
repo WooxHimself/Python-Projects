@@ -1,2 +1,1 @@
-This is a simple 3 line code of python that calculate your age by your birth year!
-Try it yourself!
+Hey! Here are my python scripts... They aren't something big, I just made them for fun!
